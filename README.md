@@ -7,3 +7,6 @@ Members: <br>
     -Shujia Liang <br>
     -Andrew Zhang <br>
   
+Dataset downloaded from kaggle.com<br>
+Link to the dataset:<br>
+[https://www.kaggle.com/datasets/kazanova/sentiment140]
